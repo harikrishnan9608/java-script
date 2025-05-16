@@ -8,7 +8,7 @@ function arrmethod(){
 
 function ammmethod(){
     var b =["java","css","html","js"];
-    console.log(b.slice(0,1));
+    console.log(b.slice(0,2));
     
 }
 ammmethod();
